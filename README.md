@@ -135,3 +135,4 @@ By opening a PR to add your project, you authorize and license Coinbase on a non
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
 Small contribution for Base task
+Small contribution for Base task
